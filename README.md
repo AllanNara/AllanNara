@@ -9,11 +9,11 @@
 <a href="https://linkedin.com/in/allannara" target="_blank style="margin: 10px">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-rigth: 5px;" />
 </a>
-<a href="https://twitter.com/allannara_dev" target="_blank style="margin: 10px">
-<img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-rigth: 5px;" />
-</a>
 <a href="mailto:allannara@outlook.com" target="_blank" style="margin: 10px">
 <img src="https://img.shields.io/badge/Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=mail style="margin-rigth: 5px;" />
+</a>
+<a href="https://twitter.com/allannara_dev" target="_blank style="margin: 10px">
+<img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-rigth: 5px;" />
 </a>
 </div>
 
