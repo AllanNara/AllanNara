@@ -2,7 +2,7 @@
 
 </br>
 
-<div align="center">
+<div align="left">
 <a href="https://drive.google.com/file/d/1ZAtTwbz5FBkaA0uMv7LVXcGJ2SQYkSwH/view?usp=sharing" target="_blank" style="margin: 10px">
 <img src="https://img.shields.io/badge/view%20resume-E37400.svg?&style=for-the-badge&logo=iCloud&logoColor=white" alt=resume style="margin-rigth: 5px;" />
 </a>
