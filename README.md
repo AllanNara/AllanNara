@@ -102,15 +102,10 @@ I specialize in building web applications, with a strong focus on Backend. My ex
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allannara&hide_border=true&layout=compact" align="left" style="width: auto" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=allannara&show_icons=true&count_private=true&hide_border=true" align="left" style="width: auto" />
-
-</td></tr></table>
+<div width="100%" align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allannara&hide_border=true&layout=compact" align="left" style="width: 35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=allannara&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
+</div>
 
 <br/>
 
