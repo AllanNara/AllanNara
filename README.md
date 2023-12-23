@@ -4,16 +4,16 @@
 
 <div align="center">
 <a href="https://drive.google.com/file/d/1ZAtTwbz5FBkaA0uMv7LVXcGJ2SQYkSwH/view?usp=sharing" target="_blank" style="margin: 10px">
-<img src=https://img.shields.io/badge/view%20resume-E37400.svg?&style=for-the-badge&logo=iCloud&logoColor=white alt=resume style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/view%20resume-E37400.svg?&style=for-the-badge&logo=iCloud&logoColor=white" alt=resume style="margin-rigth: 5px;" />
 </a>
 <a href="https://linkedin.com/in/allannara" target="_blank style="margin: 10px">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-rigth: 5px;" />
 </a>
 <a href="https://twitter.com/allannara_dev" target="_blank style="margin: 10px">
-<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-rigth: 5px;" />
 </a>
-<a href="mailto:allannara@outlook.com" target="_blank" style="margin: 10px>
-<img src=https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=mail style="margin-bottom: 5px;" />
+<a href="mailto:allannara@outlook.com" target="_blank" style="margin: 10px">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=mail style="margin-rigth: 5px;" />
 </a>
 </div>
 
