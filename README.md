@@ -82,7 +82,7 @@ I specialize in building web applications, with a strong focus on Backend. My ex
 
 ## Proyects
 
-<div style="display: flex">
+<div>
 
 <a href="https://e-commercy-proyect.onrender.com/" target="_blank">
   <img src="images/ecommercy.png" alt="ecommercy" width="33%" height="auto"/>
@@ -102,9 +102,9 @@ I specialize in building web applications, with a strong focus on Backend. My ex
 
 ## Github Stats
 
-<div width="100%" align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allannara&hide_border=true&layout=compact" align="left" style="width: 35%" />
-<img src="https://github-readme-stats.vercel.app/api?username=allannara&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allannara&hide_border=true&layout=compact" align="left" style="width: 35%; " />
+<img src="https://github-readme-stats.vercel.app/api?username=allannara&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 45%" />
 </div>
 
 <br/>
