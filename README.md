@@ -111,13 +111,9 @@ I specialize in building web applications, with a strong focus on Backend. My ex
 
 #### Buy me a Coffe!
 
-<div align="left">
-            <a href="https://ko-fi.com/allannara" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="left" width=auto height=25px
-                />
-            </a></div>
-<br />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S6SI4ME)
+##### Con MercadoPago
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/allannara)
+
 
 ---
