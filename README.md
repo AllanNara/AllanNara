@@ -2,7 +2,7 @@
 
 </br>
 <div align="left">
-<a href="https://drive.google.com/file/d/1QLVthvTNmhTY606TWkyxt5549tSmqEzv/view" target="_blank" style="margin: 10px">
+<a href="https://drive.google.com/file/d/1s2Ni5hyEPBDifVDZzTiqQfdSH4wMAhIs/view?usp=sharing" target="_blank" style="margin: 10px">
 <img src="https://img.shields.io/badge/view%20resume-%23E37400.svg?&style=for-the-badge&logo=iCloud&logoColor=white" alt=resume style="margin-rigth: 5px;" />
 </a>
 <a href="https://linkedin.com/in/allannara" target="_blank style="margin: 10px">
